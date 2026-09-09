@@ -234,3 +234,6 @@ This repository serves as the official landing page for Speccy. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Speccy today!**
+
+---
+**Last updated:** 2026-09-09 17:22:27 UTC
