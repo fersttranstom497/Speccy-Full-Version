@@ -236,4 +236,4 @@ This repository serves as the official landing page for Speccy. The software is 
 **Get the most recent version of Speccy today!**
 
 ---
-**Last updated:** 2026-09-12 13:11:28 UTC
+**Last updated:** 2026-09-12 16:34:45 UTC
